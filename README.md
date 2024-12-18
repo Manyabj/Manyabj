@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manyabj&label=Profile%20views&color=0e75b6&style=flat" alt="manyabj" /> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **MACHINE LEARNING**
 
 - 📫 How to reach me **manyabj85@gmail.com**
 
